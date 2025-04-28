@@ -1,0 +1,45 @@
+{
+    "_id": "67e0b3af18e3d257e4ec04df",
+    "index": 0,
+    "guid": "828e3ba5-920c-4b39-a655-a1dbbca9a488",
+    "isActive": false,
+    "balance": "$3,508.75",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "blue",
+    "name": "Yang Compton",
+    "gender": "male",
+    "company": "ZILIDIUM",
+    "email": "yangcompton@zilidium.com",
+    "phone": "+1 (833) 576-2602",
+    "address": "936 Creamer Street, Vienna, Oregon, 9708",
+    "about": "Sunt magna ipsum dolore tempor ad pariatur. Ipsum velit adipisicing eiusmod id irure occaecat. Commodo quis culpa sunt nulla. Do reprehenderit fugiat non cupidatat mollit dolore in pariatur mollit nostrud. Aliquip est enim in aliquip commodo laboris ipsum do proident nulla velit. Proident veniam reprehenderit et incididunt magna sunt nulla cillum. Deserunt reprehenderit elit nisi et minim.\r\n",
+    "registered": "2022-05-01T04:42:58 +03:00",
+    "latitude": 77.498266,
+    "longitude": 12.262452,
+    "tags": [
+        "esse",
+        "est",
+        "consectetur",
+        "do",
+        "reprehenderit",
+        "ea",
+        "sint"
+    ],
+    "friends": [
+        {
+            "id": 0,
+            "name": "Graves Weber"
+        },
+        {
+            "id": 1,
+            "name": "Melisa Morgan"
+        },
+        {
+            "id": 2,
+            "name": "Dominguez Stephenson"
+        }
+    ],
+    "greeting": "Hello, Yang Compton! You have 4 unread messages.",
+    "favoriteFruit": "apple"
+}
